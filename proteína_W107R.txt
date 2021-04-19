@@ -1,0 +1,13 @@
+>ShowHUDMol Atom 1-9196 - OK
+Summed up mass is 131784.532 g/mol
+>SecStrAll
+All has secondary structure content 37.6% helix, 3.1% sheet, 13.3% turn, 45.4% coil, 0.6% 3-10 helix and 0.0% pi-helix.
+>RunPlugin foldx.py - OK
+>Console Flag=Hidden - OK
+>ListRes Property=10000 - OK
+>SavePDB 1,Filename=C:\Users\maria\Desktop\yasara\plg\foldx_cache\Object1.pdb - OK
+>ShowMessage Text="Running FoldX Stability on Object 1. Please cite Schymkowitz et al., Nucl. Acids Res. 2005; 33:W382-8." - OK
+>HideMessage - OK
+>HideMessage - OK
+Plugin>Stability of: W107R = 1035.04 (kcal/mol)
+>Console Flag=Open - OK
