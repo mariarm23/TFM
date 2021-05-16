@@ -1,0 +1,4 @@
+1sj2ref
+spacing    0.375
+npts       40 48 64
+center    82.542 30.624 39.016
