@@ -1,0 +1,9 @@
+receptor = object2.pdbqt
+ligand = isoniazida.pdbqt
+center_x = 100.852
+center_y = 108.739
+center_z = 83.228
+size_x = 20.25
+size_y = 26.25
+size_z = 15.75
+out = dockingw107r.pdbqt

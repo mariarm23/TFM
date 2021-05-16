@@ -1,0 +1,46 @@
+
+C:\Users\maria>"C:\Program Files (x86)\MGLTools-1.5.6\python.exe" "C:\Program Files (x86)\MGLTools-1.5.6\Lib\site-packages\AutoDockTools\bin\runAdt.py"
+Run ADT from  C:\Program Files (x86)\MGLTools-1.5.6\lib\site-packages\AutoDockTools
+Resource file used to customize PMV: C:\Users\maria\.mgltools\1.5.6\Pmv\_pmvrc
+MSMSLIB 1.4.4 started on Local PC
+Copyright M.F. Sanner (March 2000)
+Compilation flags
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+Detected 8 CPUs
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 23117428
+Performing search ...
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -5.8      0.000      0.000
+   2         -5.7      6.561      8.092
+   3         -5.4      6.189      7.409
+   4         -5.4      2.796      4.737
+   5         -5.3      3.679      4.651
+   6         -5.2      5.596      7.025
+   7         -5.1      2.498      3.418
+   8         -5.0      4.092      4.785
+   9         -5.0      5.012      5.990
+Writing output ... done.
